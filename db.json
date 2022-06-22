@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "das",
+      "email": "guzman.leonardo117@gmail.com",
+      "telefono": "5535581591",
+      "empresa": "RC",
+      "id": 3
+    },
+    {
+      "nombre": "Jared",
+      "email": "elperrogei123@gmail.com",
+      "telefono": "5535234234",
+      "empresa": "Graduaciones HotDog",
+      "id": 4
+    }
+  ]
+}
